@@ -1,0 +1,24 @@
+{
+  "name": "whatsappchatbot",
+  "version": "1.0.0",
+  "description": "WhatsApp ChatBot  Workshop",
+  "main": "Chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhvait2000/WhatsappChatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhvait2000/WhatsappChatBot/issues"
+  },
+  "homepage": "https://github.com/Adhvait2000/WhatsappChatBot#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.4"
+  }
+}
